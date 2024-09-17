@@ -8,7 +8,7 @@ This repository contains an SQL query that creates the necessary tables for loca
 - States
 - Cities
 
-All tables include Latitude and Longitude values for creating and computing the map to point at its location. 
+All tables include Latitude and Longitude values for creating and computing the map to point at its location, and all tables include constraints for primary keys and foreign keys.
 
 ### Each **subregion** has a FK for *regions*, **country** has FK's for *regions* and *subregions*, **state** for *countries*, and **cities** for *states* and *countries*. 
 
@@ -46,4 +46,3 @@ All tables include Latitude and Longitude values for creating and computing the 
 ## Cities table includes:
 - State ID, State code,
 - Country ID, Country code
-  
