@@ -12,7 +12,7 @@ All tables include Latitude and Longitude values for creating and computing the 
 
 ### Each **subregion** has a FK for *regions*, **country** has FK's for *regions* and *subregions*, **state** for *countries*, and **cities** for *states* and *countries*. 
 
-## Shared columns (Will not be included in the upcoming table descriptions !!!):
+## Shared columns (Will not be included in the upcoming table descriptions):
 - Id,
 - Name,
 - Translations,
