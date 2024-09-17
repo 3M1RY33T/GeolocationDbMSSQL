@@ -22,7 +22,7 @@ All tables include Latitude and Longitude values for creating and computing the 
 - Updated at,
 - Geo Flag
 
-#### **(Also the contents of regions table)**
+### **(Also the contents of regions table)**
 
 ## Subregions table includes:
 - Region ID
