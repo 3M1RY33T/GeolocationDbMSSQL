@@ -8,7 +8,7 @@ This repository contains an SQL query that creates the necessary tables for loca
 - States
 - Cities
 
-All tables include Latitude and Longitude values for computing the columns' map pointing at its location on your project. 
+All tables include Latitude and Longitude values for creating and computing the map to point at its location. 
 
 ### Each **subregion** has a FK for *regions*, **country** has FK's for *regions* and *subregions*, **state** for *countries*, and **cities** for *states* and *countries*. 
 
